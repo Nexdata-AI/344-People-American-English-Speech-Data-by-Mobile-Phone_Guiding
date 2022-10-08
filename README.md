@@ -1,8 +1,10 @@
 # 344-People-American-English-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/79
+
 
 ## Description
 The data set contains 344 American English speakers' speech data, all of whom are American locals. 50 sentences for each speaker. The valid data is 9.7 hours. It is recorded in quiet environment. The contents cover in-car scenario, smart home and speech assistant.
+
+For more details, please refer to the link: https://bit.ly/3yffibl
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 2 noise symbols, 5special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
