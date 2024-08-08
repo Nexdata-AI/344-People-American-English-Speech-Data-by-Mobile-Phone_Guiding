@@ -4,7 +4,7 @@
 ## Description
 The data set contains 344 American English speakers' speech data, all of whom are American locals. 50 sentences for each speaker. The valid data is 9.7 hours. It is recorded in quiet environment. The contents cover in-car scenario, smart home and speech assistant.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/79?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/79?source=Github
 
 
 ## Format
